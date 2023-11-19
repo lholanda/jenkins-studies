@@ -1,1 +1,3 @@
-echo 'teste pipeline - modificado ***** '
+echo `apos todo a modificacao
+      ficou tudo certo`
+
