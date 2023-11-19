@@ -1,5 +1,4 @@
-# Instalação do Jenkink
-(https://youtu.be/8iLRsb2gXXY)
+# Instalação do Jenkins
 
 ## Docker run
 
